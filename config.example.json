@@ -1,0 +1,4 @@
+{
+    "token": "your bot token goes here",
+    "oauth": "https://discordapp.com/oauth2/authorize?&client_id=<your client id here>&scope=bot&permissions=19456"
+}
