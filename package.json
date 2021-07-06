@@ -47,7 +47,7 @@
         "feedparser": "^2.1.0",
         "fs-extra": "^2.0.0",
         "html-md-2": "^3.0.0",
-        "lodash": "^4.17.4",
+        "lodash": "^4.17.21",
         "moment": "^2.18.1",
         "node-schedule": "^1.2.1",
         "request": "^2.81.0",
